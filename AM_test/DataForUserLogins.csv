@@ -1,0 +1,11 @@
+Login, ResponseCode, ResponseMsg
+user_test, 200, User
+qwe, 200, User
+qw_, 200, User
+qw-, 200, User
+qwe2asdzxcd3fgrtyc4vbfgh-dfg_12345678590tyuigjkv7bnmhjkkl9sfghsd-fg-ksjdfhl8dkjf_skj3dfjjhi987jknjk87687bbkhjg7697kjkj7678xkjcv, 200, User
+, 400, The remote server returned an error: (400) Bad Request.
+qw, 400, The remote server returned an error: (400) Bad Request.
+qwe2asdzxcd3fgrtyc4vbfgh-dfg_12345678590tyuigjkv7bnmhjkkl9sfghsd-fg-ksjdfhl8dkjf_skj3dfjjhi987jknjk87687bbkhjg7697kjkj7678xkjcvd, 400, The remote server returned an error: (400) Bad Request.
+.!@#$%^&*(), 400, The remote server returned an error: (400) Bad Request.
+פûג234גא, 400, The remote server returned an error: (400) Bad Request.
